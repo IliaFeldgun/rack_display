@@ -13,6 +13,7 @@ bug-reports: "https://github.com/IliaFeldgun/rack_display/issues"
 depends: [
   "ocaml"
   "dune" {>= "3.10"}
+  "dream"
   "odoc" {with-doc}
 ]
 build: [

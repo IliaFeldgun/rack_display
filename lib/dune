@@ -1,2 +1,3 @@
 (library
- (name rack_display))
+ (name rack_display)
+ (libraries dream))

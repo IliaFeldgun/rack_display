@@ -19,7 +19,7 @@
  (name rack_display)
  (synopsis "Framework for mapping and displaying server racks")
  (description "Web interface and data model for displaying server racks to your friends")
- (depends ocaml dune)
+ (depends ocaml dune dream)
  (tags
   (topics "to describe" your project)))
 
