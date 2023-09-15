@@ -1,0 +1,4 @@
+(executable
+ (public_name rack_display)
+ (name main)
+ (libraries rack_display))
