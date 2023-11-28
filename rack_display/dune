@@ -1,0 +1,6 @@
+(include_subdirs unqualified)
+(library
+ (name rack_display)
+ (libraries dream tyxml)
+ (modules macro_components tyxml_utils)
+ (preprocess (pps lwt_ppx tyxml-ppx)))
